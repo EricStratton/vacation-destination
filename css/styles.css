@@ -4,12 +4,21 @@
 
 .bronze-title {
 	color: #cd7f32;
+	text-align: center;
 }
 
 .silver-title {
 	color: #c0c0c0;
+	text-align: center;
 }
 
 .gold-title {
 	color: #ffd700;
+	text-align: center;
+}
+
+/* Selects all of the p's within the class package */
+.package p,
+.package ul {
+	text-align: center;
 }
