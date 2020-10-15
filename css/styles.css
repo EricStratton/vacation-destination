@@ -18,8 +18,12 @@
 }
 
 /* Selects all of the p's within the class package */
-.package p,
+.package p {
+	text-align: center;
+}
+
 .package ul {
+	margin-right: 35px;
 	text-align: center;
 }
 
@@ -27,4 +31,25 @@
 	font-weight: bold;
 	font-size: 50px;
 	color: #85bb65;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.package-date {
+	font-style: italic;
+}
+
+.jumbotron {
+	background-image: url('/vacation-destination/img/spain-flag.png');
+}
+
+h1 {
+	color: #aa151b;
+}
+
+.jumbotron p {
+	color: white;
+	font-size: 25px;
 }
