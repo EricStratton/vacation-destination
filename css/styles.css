@@ -22,3 +22,9 @@
 .package ul {
 	text-align: center;
 }
+
+.price {
+	font-weight: bold;
+	font-size: 50px;
+	color: #85bb65;
+}
